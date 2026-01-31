@@ -1,10 +1,11 @@
-# 💫 About Me:
-👋 Hey, I am Piyush <br>
-💻 Currently working on MERN and ML projects<br>
-📘 Enhancing my DSA skills in CPP<br>
-📱 Leetcode problem solver<br>
-🎯 Always excited for new challenges and learning opportunities<br>
-🤝 Open to collaboration—reach out and let’s build something great!<br>
+# About Me:
+ Hi, I’m Piyush — a developer who enjoys building, learning, and shipping 🚀 <br>
+💻 Currently working on AI-powered, high-impact projects <br>
+🛠 Tech I enjoy: MERN stack, Next.js, Python, Java, Cloud technologies <br>
+🌍 Actively contributing to open-source projects and learning from real-world codebases <br>
+📱 Solving problems on LeetCode <br>
+🎯 Passionate about growth, experimentation, and delivering real value <br>
+🤝 Open to collaborations — I adapt quickly, enjoy learning new tools, and work comfortably across different parts of the stack <br>
 
 
 ## 🌐 Socials:
